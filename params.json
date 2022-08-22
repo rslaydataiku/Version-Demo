@@ -127,7 +127,6 @@
     }
   },
   "name": "Project - Main",
-  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -183,11 +182,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1661194195570
+    "lastModifiedOn": 1661194438848
   },
   "creationTag": {
     "versionNumber": 0,
@@ -197,7 +196,9 @@
     "lastModifiedOn": 1661192440878
   },
   "shortDesc": "The project *Project - Main* was created by Administrator on Aug 22nd 2022",
-  "tags": [],
+  "tags": [
+    "duplicated"
+  ],
   "customFields": {},
   "checklists": {
     "checklists": [
