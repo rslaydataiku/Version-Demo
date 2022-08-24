@@ -1,4 +1,21 @@
 {
+  "uiData": {
+    "mode": "\u0026\u0026",
+    "$latestOperator": "\u0026\u0026",
+    "$filterOptions": "rules",
+    "conditions": [
+      {
+        "input": "Product",
+        "col": "Product",
+        "$appliesTo": "value",
+        "string": "Apple",
+        "num": 0,
+        "$label": "Contains",
+        "operator": "contains"
+      }
+    ]
+  },
+  "$status": {},
   "distinct": false,
-  "enabled": false
+  "enabled": true
 }
