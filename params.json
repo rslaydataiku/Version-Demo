@@ -131,7 +131,7 @@
     },
     "dkuProperties": []
   },
-  "name": "Project - Main (Git Demo)",
+  "name": "Project - Main (Git Demo) (Split)",
   "imgPattern": 1,
   "metrics": {
     "probes": [],
@@ -188,11 +188,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 5,
+    "versionNumber": 6,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1661369293034
+    "lastModifiedOn": 1661369297305
   },
   "creationTag": {
     "versionNumber": 0,
@@ -201,7 +201,7 @@
     },
     "lastModifiedOn": 1661192440878
   },
-  "shortDesc": "The project *Project - Main* was created by Administrator on Aug 22nd 2022",
+  "shortDesc": "The project *Project - Main* was created by Administrator on Aug 22nd 2022\nThe project *PROJECT_MAIN_GIT_DEMO_SPLIT* was copied from *PROJECT_MAIN_GIT_DEMO* on *Prepare* branch by Administrator on Aug 24th 2022",
   "tags": [
     "duplicated"
   ],
