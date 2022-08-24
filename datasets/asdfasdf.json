@@ -60,11 +60,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 0,
+    "versionNumber": 1,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1661369326802
+    "lastModifiedOn": 1661369340482
   },
   "creationTag": {
     "versionNumber": 0,
@@ -86,7 +86,12 @@
     }
   },
   "schema": {
-    "columns": [],
+    "columns": [
+      {"name":"Customer","type":"string"},
+      {"name":"Product","type":"string"},
+      {"name":"Month_min","type":"date"},
+      {"name":"ProdNum_Goal","type":"bigint"}
+    ],
     "userModified": true
   },
   "dkuProperties": [],
