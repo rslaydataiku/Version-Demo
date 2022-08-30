@@ -1,0 +1,1 @@
+ No additional action is needed. Just make sure the S3 connection is correct and the change gets saved.
